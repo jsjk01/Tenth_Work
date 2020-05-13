@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tenth_Work</string>
+    <string name="play">播放音乐</string>
+    <string name="stop">播放音乐</string>
+    <string name="bind">从网站上下载音乐</string>
+    <string name="unbind">解绑Service</string>
+</resources>
